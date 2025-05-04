@@ -1,5 +1,5 @@
 @ Morse Code Implementation in ARM Assembly
-@ Author: GitHub Copilot
+@ Author: MORSOLINGO
 @ Date: 2025-04-28
 @ Description: ARM assembly implementation for Morse code encoding/decoding without Bluetooth
 
